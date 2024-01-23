@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: ab129900bb708ed4fa1c47418a43e25c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 42581985e1ce0244bbff0baff0b7c463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: 70fd22eecd60c234dabab6036670f6ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: c2828866caf752a4aaa220aaa597a7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 81e8020dec64b9347bee9906831b87bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 803db18fcb96fe6478ac52fedf3ad36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tor tor.001
+    second: {fileID: 2100000, guid: f523ccdbb9793b547af6748b4fb344a8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1. IR.Soekarno
+    second: {fileID: 2800000, guid: 29d7637a195132f4da8285ae19b10da8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tari andun bengkulu
+    second: {fileID: 2800000, guid: 8a012d52e74519d428aa689b36e626dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kayu itam
+    second: {fileID: 2800000, guid: f189892d6836e0144b5613b12b6d6289, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: saman
+    second: {fileID: 2800000, guid: 8bcb29f29d86ceb46ad28879de45b37e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari afaitaneng papua
+    second: {fileID: 2800000, guid: 9452c9f121ae98e4fae855a4fb5efdab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari aluyen papua
+    second: {fileID: 2800000, guid: 228415f4e701acd44957076137d079f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari baksa kembang kalsel
+    second: {fileID: 2800000, guid: cfbba939312b64947874c9c2be498df1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari bamba manurung sulbar
+    second: {fileID: 2800000, guid: 057b68b8ec642d940ac467d7dabbafee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari blantek dki jkt
+    second: {fileID: 2800000, guid: a1689989f869dd94aad344e562f50cf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari burung enggang kaltim
+    second: {fileID: 2800000, guid: 7a5063c797ec09b40963e3e46790d9a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari caci ntt
+    second: {fileID: 2800000, guid: b45d4cc73556b0843bade9638c2402b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari cakalele maluku
+    second: {fileID: 2800000, guid: 01001f1e5571bd94b95fcb99b82e7cd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari campak babel
+    second: {fileID: 2800000, guid: 7c1765ec2f72e1d42a4af77441238d80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari cokek banten
+    second: {fileID: 2800000, guid: 1a8ae9d89b6ddf94b9a13bab55fe92d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari dana dana gorontalo
+    second: {fileID: 2800000, guid: 21f043b6e053ae941aa2654801a45c04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari dero sulawesi tengah
+    second: {fileID: 2800000, guid: 97188384773ae7445a77cf6d9b15a5ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari dinggu sulawesi tenggara
+    second: {fileID: 2800000, guid: 16718e00de7a22048af740f7c9c4a3ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari gambyong jateng
+    second: {fileID: 2800000, guid: df3429d811080a241b77d682ab5d4c41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari jaipong jabar
+    second: {fileID: 2800000, guid: 7bf208de31744cf49b97b6aa81361869, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari kabasaran sulawesi utara
+    second: {fileID: 2800000, guid: c82de53de76e32c4bb56416fbc66c8a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari kapita maluku utara
+    second: {fileID: 2800000, guid: e7c97e27c6bc4644a97e5b14fbb5a49d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari kecak bali
+    second: {fileID: 2800000, guid: 6199e46d687f68c4e8a6c88e9ddd173e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari lalatip kal utara
+    second: {fileID: 2800000, guid: bf00cc640c7de1e4bb21f388fc30e163, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari mandau talewang kal tengah
+    second: {fileID: 2800000, guid: ffdc93a8c213995409f9f4621c799ca0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari monong kalbar
+    second: {fileID: 2800000, guid: f9ce2733e6750a341bb70db56e0b1fb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari mpaa lenggo ntb
+    second: {fileID: 2800000, guid: d05d17f2e3b17ae47b50ac185f3a2d70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari musyoh papua
+    second: {fileID: 2800000, guid: a5c07f916d13b3d4cafa07b5867af1bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari pakarena sulawesi selatan
+    second: {fileID: 2800000, guid: 41ea0bc0325b38348add08a0676cf3ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari piring sumbar
+    second: {fileID: 2800000, guid: 89e09c3ea5f8c1847af83cf8486679f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari reog jatim
+    second: {fileID: 2800000, guid: b645fbe77ae0804459f5cdd73255c85e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari saman aceh
+    second: {fileID: 2800000, guid: facde681aec2e534fb2d91000fca95b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari sekapur sirih jambi
+    second: {fileID: 2800000, guid: 13d839fcd4e74904aa1c7d918d26faf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari selamat datang papua
+    second: {fileID: 2800000, guid: fe4824d0ab6153b49bfffb7a4faba846, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari sembah lampung
+    second: {fileID: 2800000, guid: 11455498400fd5e418c3509a59f6d09f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari serimpi diy yogyakarta
+    second: {fileID: 2800000, guid: 661153ebae3a45643a81282e44df55a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari suanggi papua barat'
+    second: {fileID: 2800000, guid: c3c9f433d3557ca4f9c6692347382109, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari tanggai sumsel
+    second: {fileID: 2800000, guid: 0a9120e0d3159e941b515d35a9d53ab4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tari tor tor sumut
+    second: {fileID: 2800000, guid: a62b4f11daf5b8642bf2b1cc87b01619, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
